@@ -541,7 +541,7 @@ if (isset($SET_REAL_DOCUMENT_ROOT) && $SET_REAL_DOCUMENT_ROOT !== "") {
 $CONFIG_CHECK = array("TARGET_EMAIL");
 
 /* Help: http://www.tectite.com/fmdoc/at_mangle.php */
-$AT_MANGLE = "";
+$AT_MANGLE = "+";
 
 /* Help: http://www.tectite.com/fmdoc/target_urls.php */
 $TARGET_URLS = array(); /* default; no URLs allowed */
@@ -554,7 +554,7 @@ $BODY_LF = "\r\n"; /* the new default: use this for CR+LF */
 //$BODY_LF = "\n";       /* the old default: just LF */
 
 /* Help: http://www.tectite.com/fmdoc/from_user.php */
-$FROM_USER = ""; /* the default - setting not used */
+$FROM_USER = "info@greenwichstringquartet.co.uk"; /* the default - setting not used */
 
 /* Help: http://www.tectite.com/fmdoc/sendmail_f_option.php */
 $SENDMAIL_F_OPTION      = false;
