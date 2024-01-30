@@ -755,7 +755,7 @@ $PEAR_SMTP_USER = "";
 $PEAR_SMTP_PWD  = "";
 
 /* Help: http://www.tectite.com/fmdoc/alert_on_user_error.php */
-$ALERT_ON_USER_ERROR = true;
+$ALERT_ON_USER_ERROR = false;
 
 /* Help: http://www.tectite.com/fmdoc/enable_attack_detection.php */
 $ENABLE_ATTACK_DETECTION = true;
