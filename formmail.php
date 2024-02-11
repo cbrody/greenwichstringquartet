@@ -521,7 +521,7 @@ $TARGET_EMAIL = array($EMAIL_NAME . "@greenwichstringquartet\.co\.uk$");
 $EMAIL_ADDRS = array();
 
 /* Help: http://www.tectite.com/fmdoc/def_alert.php */
-$DEF_ALERT = "admin@cbrody.com";
+$DEF_ALERT = "";
 
 /* Help: http://www.tectite.com/fmdoc/site_domain.php */
 $SITE_DOMAIN = ""; /* your website domain name */
